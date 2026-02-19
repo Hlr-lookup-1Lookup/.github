@@ -122,7 +122,7 @@ If your business relies heavily on accurate phone data, **1Lookup's enterprise-g
 
 If you want an accurate, developer-friendly platform that actually stops fraud and cleans your lists, 1Lookup is a top-tier choice. With their flexible Universal Credit system, you never overpay for what you don't use. Grab your **1,000 free lookups** to start testing, and take advantage of their bulk pricing to scale your HLR lookup needs securely.
 
-[![Claim This Discount](image2.png)](https://www.1lookup.io/)
+[![1Lookup official website](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image2.png)](https://www.1lookup.io/)
 
 Create your free account, integrate the API, and start verifying your data faster and smarter.
 
