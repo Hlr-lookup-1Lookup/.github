@@ -58,9 +58,6 @@ If you are not seeing your free credits or bulk discount, follow these steps to 
 
 Unlike competitors that lock you into confusing monthly subscriptions, 1Lookup uses a straightforward **Pay-As-You-Go Universal Credit** system. One simple credit works for everything.
 
-[![1Lookup official website](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image8.png)](https://www.1lookup.io/)
-
-
 
 [![1Lookup official website](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image6.png)](https://www.1lookup.io/)
 
