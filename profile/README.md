@@ -5,7 +5,7 @@ We brought you verified [1Lookup coupons](https://www.1lookup.io/) for developer
 
 [**Get 1,000 free lookups instantly**](https://www.1lookup.io/) when you create a new account to test 1Lookup's HLR lookup accuracy. Catch fake numbers, verify active carriers, and stop wasting money on dead leads with real-time phone validation powered by daily FCC data updates.
 
-[![Claim This Discount](image2.png)](https://www.1lookup.io/)
+![1Lookup official website](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/image7.png)
 
 ## Save Big on Bulk HLR Lookup Credits
 
@@ -25,7 +25,7 @@ Follow these 4 simple steps to claim your free HLR lookups and volume discounts.
 
 **Step 1:** Visit the **1Lookup official website** with this [**discount link**](https://www.1lookup.io/).
 
-![1Lookup official website](image7.png)](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image2.png)
+
 
 **Step 2:** Click on the **Pricing** or **Sign Up** tab from the top bar to view their Universal Credit system.
 
