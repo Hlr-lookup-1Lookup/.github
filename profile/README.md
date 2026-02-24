@@ -29,13 +29,13 @@ Follow these 4 simple steps to claim your free HLR lookups and volume discounts.
 
 **Step 2:** Click on the **Pricing** or **Sign Up** tab from the top bar to view their Universal Credit system.
 
-[![1Lookup official website](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image6.png)](https://www.1lookup.io/)
+[![price plan](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image5.png)](https://www.1lookup.io/pricing)
 
 
 
 **Step 3:** Now, **create your 1Lookup account** by entering your email ID.
 
-[![1Lookup official website](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image8.png)](https://www.1lookup.io/)
+[![signup](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image8.png)](https://www.1lookup.io/)
 
 
 
