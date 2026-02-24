@@ -35,7 +35,7 @@ Follow these 4 simple steps to claim your free HLR lookups and volume discounts.
 
 **Step 3:** Now, **create your 1Lookup account** by entering your email ID.
 
-[![signup](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image8.png)](https://www.1lookup.io/)
+[![signup](https://raw.githubusercontent.com/Hlr-lookup-1Lookup/.github/refs/heads/main/hlr_image8.png)](https://app.1lookup.io/signup)
 
 
 
